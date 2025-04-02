@@ -1,0 +1,21 @@
+# Chain-of-Tools AI Agent Requirements
+# Date: April 2, 2025
+
+# Core dependencies
+numpy>=1.22.0
+python-dotenv>=1.0.0
+
+# For database management
+# sqlite3 is part of Python's standard library
+
+# For web tools (optional, uncomment if implementing actual APIs)
+# requests>=2.28.0
+# beautifulsoup4>=4.11.0
+
+# For natural language processing (optional)
+# transformers>=4.25.0
+# torch>=1.13.0
+
+# For visualization (optional)
+# matplotlib>=3.5.0
+# seaborn>=0.12.0
