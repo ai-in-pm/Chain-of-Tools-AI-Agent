@@ -4,6 +4,10 @@
 
 This project implements a real-time Chain-of-Tools AI Agent that demonstrates how a frozen Language Model (LLM) can dynamically decide when to use tools during its generation process. The agent provides a step-by-step visualization of the decision-making process for tool usage.
 
+The development of this repository was inspired by the paper "Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models". To read the entire paper, visit https://www.arxiv.org/pdf/2503.16779
+
+https://github.com/user-attachments/assets/ca1ef775-e4b1-48b4-9565-88d4cbbb9185
+
 ## Features
 
 - **Real-time Chain-of-Tools**: The agent decides when to use tools during the generation process.
